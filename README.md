@@ -7,12 +7,12 @@ A simple and intuitive Node.js wrapper for ffmpeg, making it easy to perform vid
 Since this package is not yet published to npm, you can install it directly from the Git repository:
 
 ```bash
-npm install git+https://github.com/danielgaskins/easy-ffmpeg.git
+npm install git+https://github.com/danielgaskins/easier-ffmpeg.git
 ```
 
 ## Usage
 ```typescript
-import { Ffmpeg } from 'easy-ffmpeg';
+import { Ffmpeg } from 'easier-ffmpeg';
 
 // Create an Ffmpeg instance
 const ffmpeg = new Ffmpeg();

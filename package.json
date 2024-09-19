@@ -1,6 +1,10 @@
 {
   "name": "easy-ffmpeg",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielgaskins/easy-ffmpeg"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
