@@ -82,4 +82,4 @@ This wrapper currently exposes a subset of ffmpeg's functionality. More options 
 Refer to the ffmpeg documentation for more details about the available options and their usage: https://ffmpeg.org/ffmpeg.html
 
 ## License
-MIT
+ISC

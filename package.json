@@ -1,5 +1,5 @@
 {
-  "name": "simple-ffmpeg",
+  "name": "easy-ffmpeg",
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Daniel Gaskins",
   "license": "ISC",
-  "description": "",
+  "description": "A simple and intuitive Node.js wrapper for ffmpeg, making it easy to perform video and audio processing tasks.",
   "devDependencies": {
     "@types/node": "^22.5.5",
     "typescript": "^5.6.2"
