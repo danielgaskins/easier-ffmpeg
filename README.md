@@ -1,4 +1,4 @@
-# EasyFFmpeg
+# EasierFFmpeg
 
 A simple and intuitive Node.js wrapper for ffmpeg, making it easy to perform video and audio processing tasks.
 
