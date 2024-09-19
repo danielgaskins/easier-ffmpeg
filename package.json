@@ -1,9 +1,9 @@
 {
-  "name": "easy-ffmpeg",
+  "name": "easier-ffmpeg",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielgaskins/easy-ffmpeg"
+    "url": "https://github.com/danielgaskins/easier-ffmpeg"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
